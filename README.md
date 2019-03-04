@@ -10,3 +10,6 @@ This base contains description and links about useful tools
 
 > - [PowerShell Empire](https://github.com/EmpireProject/Empire) - Powerfull penetration testing framework
 
+## Malware Analyze :
+
+> - [FLOSS](https://github.com/fireeye/flare-floss) - deobfuscate strings in malware
