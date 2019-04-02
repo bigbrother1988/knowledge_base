@@ -9,6 +9,8 @@ This base contains description and links about useful tools
 ## Pentest Tools :
 
 > - [PowerShell Empire](https://github.com/EmpireProject/Empire) - Powerfull penetration testing framework
+> - [Invoke-Phant0m](https://github.com/hlldz/Invoke-Phant0m) - identify Event Log Threads to kill Event Log Service Threads
+> - [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - obfuscation powershell code
 
 ## Malware Analyze :
 
