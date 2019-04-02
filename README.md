@@ -11,6 +11,7 @@ This base contains description and links about useful tools
 > - [PowerShell Empire](https://github.com/EmpireProject/Empire) - Powerfull penetration testing framework
 > - [Invoke-Phant0m](https://github.com/hlldz/Invoke-Phant0m) - identify Event Log Threads to kill Event Log Service Threads
 > - [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - obfuscation powershell code
+> - [PSAttack](https://github.com/jaredhaight/PSAttack) - A portable console aimed at making pentesting with PowerShell a little easier.
 
 ## Malware Analyze :
 
