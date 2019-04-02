@@ -12,6 +12,8 @@ This base contains description and links about useful tools
 > - [Invoke-Phant0m](https://github.com/hlldz/Invoke-Phant0m) - identify Event Log Threads to kill Event Log Service Threads
 > - [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - obfuscation powershell code
 > - [PSAttack](https://github.com/jaredhaight/PSAttack) - A portable console aimed at making pentesting with PowerShell a little easier.
+> - [Commando-VM](https://github.com/fireeye/commando-vm) - Windows-based security distribution for penetration testing
+
 
 ## Malware Analyze :
 
