@@ -15,6 +15,11 @@ This base contains description and links about useful tools
 > - [Commando-VM](https://github.com/fireeye/commando-vm) - Windows-based security distribution for penetration testing
 
 
+## intelligence service:
+
+> - [PowerSploit/Recon/](https://github.com/PowerShellMafia/PowerSploit/tree/dev/Recon) - domain research with powershell
+
+
 ## Malware Analyze :
 
 > - [FLOSS](https://github.com/fireeye/flare-floss) - deobfuscate strings in malware
