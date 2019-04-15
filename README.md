@@ -13,6 +13,7 @@ This base contains description and links about useful tools
 > - [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) - obfuscation powershell code
 > - [PSAttack](https://github.com/jaredhaight/PSAttack) - A portable console aimed at making pentesting with PowerShell a little easier.
 > - [Commando-VM](https://github.com/fireeye/commando-vm) - Windows-based security distribution for penetration testing
+> - [MimiPeguin](https://github.com/huntergregal/mimipenguin) - dump creds on the linux system
 
 
 ## intelligence service:
