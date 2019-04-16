@@ -24,3 +24,4 @@ This base contains description and links about useful tools
 ## Malware Analyze :
 
 > - [FLOSS](https://github.com/fireeye/flare-floss) - deobfuscate strings in malware
+> - [FLASHMINGO](https://github.com/fireeye/flashmingo) - analyzse flash swf files
