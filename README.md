@@ -25,3 +25,7 @@ This base contains description and links about useful tools
 
 > - [FLOSS](https://github.com/fireeye/flare-floss) - deobfuscate strings in malware
 > - [FLASHMINGO](https://github.com/fireeye/flashmingo) - analyzse flash swf files
+
+## Security recommendation:
+
+> - [Docker OWASP](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Docker_Security_Cheat_Sheet.md) -docker security settings recommendation
